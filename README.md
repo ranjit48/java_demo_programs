@@ -1,2 +1,1 @@
-# java_demo_programs
-# java_demo_programs
+This is templet for fast input/out for competitive programming for java
